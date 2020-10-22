@@ -22,5 +22,5 @@ if __name__ == '__main__':
                  test_case4, test_case5, test_case6, test_case7,test_case8])
     cmd1 = 'allure generate %s -o %s --clean' % (xml_report_path, html_report_path)
     cmd2 = 'allure serve %s' % (xml_report_path)
-    shell_tool.invoke(cmd1)
-    shell_tool.invoke(cmd2)
+    # shell_tool.invoke(cmd1)
+    # shell_tool.invoke(cmd2)
