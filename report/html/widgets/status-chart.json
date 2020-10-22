@@ -1,0 +1,81 @@
+[ {
+  "uid" : "788b95281df189f5",
+  "name" : "好友列表",
+  "time" : {
+    "start" : 1603295146281,
+    "stop" : 1603295146562,
+    "duration" : 281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb99095c10bf878e",
+  "name" : "余额查看",
+  "time" : {
+    "start" : 1603295145921,
+    "stop" : 1603295146048,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d05568cb6e7111db",
+  "name" : "关注列表",
+  "time" : {
+    "start" : 1603295146051,
+    "stop" : 1603295146279,
+    "duration" : 228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b33ce5f6e4c0a41",
+  "name" : "附近动态",
+  "time" : {
+    "start" : 1603295145606,
+    "stop" : 1603295145918,
+    "duration" : 312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7adcf9a4e0876d25",
+  "name" : "密码登录",
+  "time" : {
+    "start" : 1603295145043,
+    "stop" : 1603295145273,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "121330f94194b522",
+  "name" : "群组列表",
+  "time" : {
+    "start" : 1603295146833,
+    "stop" : 1603295146987,
+    "duration" : 154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf468b8b504afa85",
+  "name" : "粉丝列表",
+  "time" : {
+    "start" : 1603295146564,
+    "stop" : 1603295146830,
+    "duration" : 266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "894b4fb02df526ec",
+  "name" : "验证码登录",
+  "time" : {
+    "start" : 1603295145275,
+    "stop" : 1603295145427,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

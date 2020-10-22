@@ -1,0 +1,14 @@
+---------------response----------------
+200
+Server: Tengine
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Wed, 21 Oct 2020 15:27:52 GMT
+Vary: Origin, Access-Control-Request-Method, Access-Control-Request-Headers
+Set-Cookie: token=YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG77AFB4LRX5DNLFTVCO4OVPPQAIKACF7CKEAP3QYPP7ZFIPIZ2ON646F4HQX4RZNNWJI2ITQBLCYN6ZLH6WYPS3BRMZVJLREXQWB5OM2; Domain=hnyoujin.cn; Path=/, SESSION=YTI3YTYzYWMtMWM2Ni00MjIzLWIxNjktMmZjNzkwMDY4N2Zi; Path=/; HttpOnly; SameSite=Lax
+Via: cache1.l2cn1850[48,0], kunlun4.cn1440[76,0]
+Timing-Allow-Origin: *
+EagleId: 71cf221816032940724073958e
+
+{"data":{"pin":"5f86cc8f0c5d2f4fcc430dcb","nickName":"枫","phone":"17396240733","sexType":1,"sign":"给你弄民工哭哭哭哭不不复独特局部他哭哭哭哭统计局不他独特读不不不他他不透娜娜托鲁","token":"YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG77AFB4LRX5DNLFTVCO4OVPPQAIKACF7CKEAP3QYPP7ZFIPIZ2ON646F4HQX4RZNNWJI2ITQBLCYN6ZLH6WYPS3BRMZVJLREXQWB5OM2","accid":"bars_5f86cc8f0c5d2f4fcc430dcb","icon":"/img/1cf4ef3f5daf431ebdf37a9a7ec33763.png","isCompleteBaseInfo":"YES","account":"12345678","imToken":"09a9d80ef96c88a29206bcd19e692a51"},"success":true}

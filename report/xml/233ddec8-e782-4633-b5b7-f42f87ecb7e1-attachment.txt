@@ -1,0 +1,25 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 214.572 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+https://api.hnyoujin.cn/api/sns/attention/queryAttention
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG2EFEJBAUFGD6CT6WT7MKWJMQD7DP2AMY4X5TAXCDFNAEHJYILWK5IFJMWVPIZKSUCRIEJCGEATKMEK6WQ5KM3WYPVPZKJBUDLZPUCIM
+content-type: application/json;;charset=UTF-8
+Content-Length: 27
+
+b'{"page": "0", "size": "20"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+200
+Server: Tengine
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Wed, 21 Oct 2020 15:45:34 GMT
+Vary: Origin, Access-Control-Request-Method, Access-Control-Request-Headers
+Via: cache57.l2cn1850[124,0], kunlun4.cn1440[154,0]
+Timing-Allow-Origin: *
+EagleId: 71cf221816032951345241511e
+
+{"data":{"pageIndex":0,"totalPage":8,"pageSize":20,"list":[{"nickName":"你好毒！","icon":"/img/1cf4ef3f5daf431ebdf37a9a7ec33763.png","userLevel":1,"sexType":1,"pin":"5f86dad00c5d2f4fcc430de9","age":24,"online":1},{"nickName":"吉信测试","icon":"/img/1cf4ef3f5daf431ebdf37a9a7ec33763.png","userLevel":1,"sexType":1,"pin":"5f86a86f0c5d2f4fcc430db7","age":24,"online":2},{"nickName":"0003","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f87015d8e42a45c4431bc77","age":21,"online":2},{"nickName":"0004","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704618e42a45c4431bc89","age":21,"online":2},{"nickName":"0005","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704628e42a45c4431bc8e","age":21,"online":2},{"nickName":"0006","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704638e42a45c4431bc93","age":21,"online":2},{"nickName":"0007","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704648e42a45c4431bc98","age":21,"online":2},{"nickName":"0008","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":3,"sexType":2,"pin":"5f8704658e42a45c4431bc9d","age":21,"online":2},{"nickName":"0009","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704668e42a45c4431bca2","age":21,"online":2},{"nickName":"0010","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704668e42a45c4431bca5","age":21,"online":2},{"nickName":"0011","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":2,"sexType":2,"pin":"5f8704678e42a45c4431bcac","age":21,"online":2},{"nickName":"0012","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":2,"sexType":2,"pin":"5f8704688e42a45c4431bcb1","age":21,"online":2},{"nickName":"0013","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704698e42a45c4431bcb6","age":21,"online":2},{"nickName":"0014","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f87046a8e42a45c4431bcbb","age":21,"online":2},{"nickName":"0015","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f87046b8e42a45c4431bcc0","age":21,"online":2},{"nickName":"0016","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f87046b8e42a45c4431bcc3","age":21,"online":2},{"nickName":"0017","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f87046c8e42a45c4431bcca","age":21,"online":2},{"nickName":"0018","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f87046d8e42a45c4431bccf","age":21,"online":2},{"nickName":"0019","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f87046e8e42a45c4431bcd4","age":21,"online":2},{"nickName":"0020","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":3,"sexType":1,"pin":"5f87046f8e42a45c4431bcd9","age":21,"online":2}],"totalCount":154},"success":true}

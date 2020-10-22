@@ -1,0 +1,116 @@
+{
+  "uid" : "cf468b8b504afa85",
+  "name" : "粉丝列表",
+  "fullName" : "test_case.User.test_queryFans#test_queryFans",
+  "historyId" : "cbe853f51ad5ec8520103230eb72a013",
+  "time" : {
+    "start" : 1603295146564,
+    "stop" : 1603295146830,
+    "duration" : 266
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "token",
+    "time" : {
+      "start" : 1603295145430,
+      "stop" : 1603295145605,
+      "duration" : 175
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87a2623bfefc882",
+      "name" : "request",
+      "source" : "87a2623bfefc882.txt",
+      "type" : "text/plain",
+      "size" : 640
+    }, {
+      "uid" : "6e04870a8647f4a9",
+      "name" : "response",
+      "source" : "6e04870a8647f4a9.txt",
+      "type" : "text/plain",
+      "size" : 1217
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a07905b6e8f2615",
+      "name" : "request",
+      "source" : "9a07905b6e8f2615.txt",
+      "type" : "text/plain",
+      "size" : 438
+    }, {
+      "uid" : "7d024608fdcc0eda",
+      "name" : "response",
+      "source" : "7d024608fdcc0eda.txt",
+      "type" : "text/plain",
+      "size" : 3468
+    }, {
+      "uid" : "a6dba4973e9e50fe",
+      "name" : "log",
+      "source" : "a6dba4973e9e50fe.txt",
+      "type" : "text/plain",
+      "size" : 4078
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_queryFans"
+  }, {
+    "name" : "host",
+    "value" : "PC-202002051100"
+  }, {
+    "name" : "thread",
+    "value" : "15004-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_queryFans"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd4ae2266ba8a76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603294085038,
+        "stop" : 1603294085293,
+        "duration" : 255
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf468b8b504afa85.json",
+  "parameterValues" : [ ]
+}

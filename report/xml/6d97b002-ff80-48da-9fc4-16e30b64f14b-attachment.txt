@@ -1,0 +1,24 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 121.094 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+https://api.hnyoujin.cn/api/platform/userInfo/viewAccount
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG77AFB4LRX5DNLFTVCO4OVPPQAIKACF7CKEAP3QYPP7ZFIPIZ2ON646F4HQX4RZNNWJI2ITQBLCYN6ZLH6WYPS3BRMZVJLREXQWB5OM2
+content-type: application/json;;charset=UTF-8
+Content-Length: 22
+
+b'{"content": "balance"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+200
+Server: Tengine
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Wed, 21 Oct 2020 15:27:52 GMT
+Via: cache31.l2cn1850[33,0], kunlun2.cn1440[55,0]
+Timing-Allow-Origin: *
+EagleId: 71cf221616032940728826301e
+
+{"data":680254.35,"success":true}

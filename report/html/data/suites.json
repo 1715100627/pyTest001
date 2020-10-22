@@ -1,0 +1,145 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case.User",
+    "children" : [ {
+      "name" : "test_login1",
+      "children" : [ {
+        "name" : "密码登录",
+        "uid" : "7adcf9a4e0876d25",
+        "parentUid" : "a295eb8303f7c0e15bcd4afb35ad4e59",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295145043,
+          "stop" : 1603295145273,
+          "duration" : 230
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a295eb8303f7c0e15bcd4afb35ad4e59"
+    }, {
+      "name" : "test_login_yzm",
+      "children" : [ {
+        "name" : "验证码登录",
+        "uid" : "894b4fb02df526ec",
+        "parentUid" : "9d4b1bbd19bc003625e67061f377050c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295145275,
+          "stop" : 1603295145427,
+          "duration" : 152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d4b1bbd19bc003625e67061f377050c"
+    }, {
+      "name" : "test_nearby",
+      "children" : [ {
+        "name" : "附近动态",
+        "uid" : "9b33ce5f6e4c0a41",
+        "parentUid" : "2453f8a7a923cb7c72c3cbb4a9092ce0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295145606,
+          "stop" : 1603295145918,
+          "duration" : 312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2453f8a7a923cb7c72c3cbb4a9092ce0"
+    }, {
+      "name" : "test_balance",
+      "children" : [ {
+        "name" : "余额查看",
+        "uid" : "eb99095c10bf878e",
+        "parentUid" : "1d387aa568793b9538c00f368fdec5ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295145921,
+          "stop" : 1603295146048,
+          "duration" : 127
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d387aa568793b9538c00f368fdec5ec"
+    }, {
+      "name" : "test_Attention",
+      "children" : [ {
+        "name" : "关注列表",
+        "uid" : "d05568cb6e7111db",
+        "parentUid" : "d9d70274a1f0b792bd9097d460a6a5d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295146051,
+          "stop" : 1603295146279,
+          "duration" : 228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d9d70274a1f0b792bd9097d460a6a5d9"
+    }, {
+      "name" : "test_queryFriend",
+      "children" : [ {
+        "name" : "好友列表",
+        "uid" : "788b95281df189f5",
+        "parentUid" : "5213d71c233a84535f120ade6f5fabc1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295146281,
+          "stop" : 1603295146562,
+          "duration" : 281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5213d71c233a84535f120ade6f5fabc1"
+    }, {
+      "name" : "test_queryFans",
+      "children" : [ {
+        "name" : "粉丝列表",
+        "uid" : "cf468b8b504afa85",
+        "parentUid" : "e9e974cdc15c0ababf2c9d7118ec89fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295146564,
+          "stop" : 1603295146830,
+          "duration" : 266
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e9e974cdc15c0ababf2c9d7118ec89fe"
+    }, {
+      "name" : "test_TeamList",
+      "children" : [ {
+        "name" : "群组列表",
+        "uid" : "121330f94194b522",
+        "parentUid" : "68861fd3abc731c4639befbed2ec4514",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603295146833,
+          "stop" : 1603295146987,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "68861fd3abc731c4639befbed2ec4514"
+    } ],
+    "uid" : "c510645ca45b5592ddc4b2d003196695"
+  } ]
+}

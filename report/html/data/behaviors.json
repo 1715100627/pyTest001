@@ -1,0 +1,117 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_login_01",
+    "children" : [ {
+      "name" : "密码登录",
+      "uid" : "7adcf9a4e0876d25",
+      "parentUid" : "b9f172797e0d7047f61aad7d5715a076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603295145043,
+        "stop" : 1603295145273,
+        "duration" : 230
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "验证码登录",
+      "uid" : "894b4fb02df526ec",
+      "parentUid" : "b9f172797e0d7047f61aad7d5715a076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603295145275,
+        "stop" : 1603295145427,
+        "duration" : 152
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b9f172797e0d7047f61aad7d5715a076"
+  }, {
+    "name" : "test_balance",
+    "children" : [ {
+      "name" : "附近动态",
+      "uid" : "9b33ce5f6e4c0a41",
+      "parentUid" : "a42ad0aa0334ce5737101ba49b48c06d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603295145606,
+        "stop" : 1603295145918,
+        "duration" : 312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "余额查看",
+      "uid" : "eb99095c10bf878e",
+      "parentUid" : "a42ad0aa0334ce5737101ba49b48c06d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603295145921,
+        "stop" : 1603295146048,
+        "duration" : 127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a42ad0aa0334ce5737101ba49b48c06d"
+  }, {
+    "name" : "关注列表",
+    "uid" : "d05568cb6e7111db",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603295146051,
+      "stop" : 1603295146279,
+      "duration" : 228
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "好友列表",
+    "uid" : "788b95281df189f5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603295146281,
+      "stop" : 1603295146562,
+      "duration" : 281
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "粉丝列表",
+    "uid" : "cf468b8b504afa85",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603295146564,
+      "stop" : 1603295146830,
+      "duration" : 266
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "群组列表",
+    "uid" : "121330f94194b522",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603295146833,
+      "stop" : 1603295146987,
+      "duration" : 154
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

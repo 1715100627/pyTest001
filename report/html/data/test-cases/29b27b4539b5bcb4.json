@@ -1,0 +1,106 @@
+{
+  "uid" : "29b27b4539b5bcb4",
+  "name" : "好友列表",
+  "fullName" : "test_case.User.test_queryFriend#test_queryFriend",
+  "historyId" : "fd6cc5a30a79ee58fe756796c263c67f",
+  "time" : {
+    "start" : 1603294084767,
+    "stop" : 1603294085036,
+    "duration" : 269
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "token",
+    "time" : {
+      "start" : 1603294083927,
+      "stop" : 1603294084075,
+      "duration" : 148
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "18be9a4cd3667935",
+      "name" : "request",
+      "source" : "18be9a4cd3667935.txt",
+      "type" : "text/plain",
+      "size" : 640
+    }, {
+      "uid" : "1f2a06ccda8eeacc",
+      "name" : "response",
+      "source" : "1f2a06ccda8eeacc.txt",
+      "type" : "text/plain",
+      "size" : 1215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46cb62270525d357",
+      "name" : "request",
+      "source" : "46cb62270525d357.txt",
+      "type" : "text/plain",
+      "size" : 440
+    }, {
+      "uid" : "ff918d4d30d2379f",
+      "name" : "response",
+      "source" : "ff918d4d30d2379f.txt",
+      "type" : "text/plain",
+      "size" : 3474
+    }, {
+      "uid" : "96757dcd124a4579",
+      "name" : "log",
+      "source" : "96757dcd124a4579.txt",
+      "type" : "text/plain",
+      "size" : 4086
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_queryFriend"
+  }, {
+    "name" : "host",
+    "value" : "PC-202002051100"
+  }, {
+    "name" : "thread",
+    "value" : "13920-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_queryFriend"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29b27b4539b5bcb4.json",
+  "parameterValues" : [ ]
+}

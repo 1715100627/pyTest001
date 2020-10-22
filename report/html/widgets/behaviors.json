@@ -1,0 +1,26 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "b9f172797e0d7047f61aad7d5715a076",
+    "name" : "test_login_01",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "a42ad0aa0334ce5737101ba49b48c06d",
+    "name" : "test_balance",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

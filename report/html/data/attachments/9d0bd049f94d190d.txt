@@ -1,0 +1,25 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 145.966 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+https://api.hnyoujin.cn/api/pass/login/v1/loginMobileCodeVerification
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 403
+
+b'{"account": "17396240733", "code": "964921", "deviceModel": "ELE-AL00", "mac": "02:00:00:00:00:02", "imei": "865166020414713", "center": "104.06549581016573,30.576648460590466", "softwareVersion": "5.1.1", "machineVersion": "Other", "netType": "WIFI", "cityCode": "028", "appVersion": "1.0.1", "deviceId": "20200903185703dabf12e1be271324194be12019f51f4301a4ddb69bd33ae9", "deviceTypeSkyEnum": "android"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+200
+Server: Tengine
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Wed, 21 Oct 2020 15:45:33 GMT
+Vary: Origin, Access-Control-Request-Method, Access-Control-Request-Headers
+Set-Cookie: token=YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG7LQC562XHUCQVSDYJMLGHODXHWULGQSN2GVNAA7WYPTWLNJP4BMNEW5PQYM23MVEUOTWEKMUX3FHGJXBFPE24JG2J42SODYEX2WQAS4; Domain=hnyoujin.cn; Path=/
+Via: cache19.l2cn1850[48,0], kunlun8.cn1440[79,0]
+Timing-Allow-Origin: *
+EagleId: 71cf221c16032951337561767e
+
+{"data":{"pin":"5f86cc8f0c5d2f4fcc430dcb","nickName":"枫","phone":"17396240733","sexType":1,"sign":"给你弄民工哭哭哭哭不不复独特局部他哭哭哭哭统计局不他独特读不不不他他不透娜娜托鲁","token":"YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG7LQC562XHUCQVSDYJMLGHODXHWULGQSN2GVNAA7WYPTWLNJP4BMNEW5PQYM23MVEUOTWEKMUX3FHGJXBFPE24JG2J42SODYEX2WQAS4","accid":"bars_5f86cc8f0c5d2f4fcc430dcb","icon":"/img/1cf4ef3f5daf431ebdf37a9a7ec33763.png","isCompleteBaseInfo":"YES","account":"12345678","imToken":"09a9d80ef96c88a29206bcd19e692a51"},"success":true}

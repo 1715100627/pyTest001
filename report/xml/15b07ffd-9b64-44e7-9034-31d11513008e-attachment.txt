@@ -1,0 +1,10 @@
+-------------------request-------------
+https://api.hnyoujin.cn/api/pass/login/v1/in
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 384
+
+b'{"account": "17396240733", "pass": "123456", "deviceModel": "ELEAL00", "mac": "02:00:00:00:00:02", "imei": "865166020414713", "center": "104.066353,30.57489", "softwareVersion": "5.1.1", "machineVersion": "Other", "netType": "WIFI", "cityCode": "028", "appVersion": "1.0.1", "deviceId": "20200903185703dabf12e1be271324194be12019f51f4301a4ddb69bd33ae9", "deviceTypeSkyEnum": "android"}'

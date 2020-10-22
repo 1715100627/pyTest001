@@ -1,0 +1,25 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 251.276 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+https://api.hnyoujin.cn/api/sns/attention/queryFans
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG2EFEJBAUFGD6CT6WT7MKWJMQD7DP2AMY4X5TAXCDFNAEHJYILWK5IFJMWVPIZKSUCRIEJCGEATKMEK6WQ5KM3WYPVPZKJBUDLZPUCIM
+content-type: application/json;;charset=UTF-8
+Content-Length: 27
+
+b'{"page": "0", "size": "20"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+200
+Server: Tengine
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Wed, 21 Oct 2020 15:45:35 GMT
+Vary: Origin, Access-Control-Request-Method, Access-Control-Request-Headers
+Via: cache51.l2cn1850[162,0], kunlun2.cn1440[189,0]
+Timing-Allow-Origin: *
+EagleId: 71cf221616032951350407364e
+
+{"data":{"pageIndex":0,"totalPage":8,"pageSize":20,"list":[{"nickName":"你好毒！","icon":"/img/1cf4ef3f5daf431ebdf37a9a7ec33763.png","userLevel":1,"sexType":1,"pin":"5f86dad00c5d2f4fcc430de9","age":24,"online":1},{"nickName":"我改","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704da8e42a45c4431bf6c","age":21,"online":2},{"nickName":"0151","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d98e42a45c4431bf67","age":21,"online":2},{"nickName":"0150","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d98e42a45c4431bf62","age":21,"online":2},{"nickName":"0149","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d88e42a45c4431bf5d","age":21,"online":2},{"nickName":"0148","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d78e42a45c4431bf58","age":21,"online":2},{"nickName":"0147","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d68e42a45c4431bf53","age":21,"online":2},{"nickName":"0146","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d68e42a45c4431bf4e","age":21,"online":2},{"nickName":"0145","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d58e42a45c4431bf49","age":21,"online":2},{"nickName":"0144","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d48e42a45c4431bf44","age":21,"online":2},{"nickName":"0143","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d38e42a45c4431bf3f","age":21,"online":2},{"nickName":"0142","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d28e42a45c4431bf3a","age":21,"online":2},{"nickName":"0141","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d18e42a45c4431bf35","age":21,"online":2},{"nickName":"0140","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d08e42a45c4431bf2e","age":21,"online":2},{"nickName":"0139","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704d08e42a45c4431bf2b","age":21,"online":2},{"nickName":"0138","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704cf8e42a45c4431bf26","age":21,"online":2},{"nickName":"0137","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704ce8e42a45c4431bf21","age":21,"online":2},{"nickName":"0136","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704cd8e42a45c4431bf1c","age":21,"online":2},{"nickName":"0135","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704cd8e42a45c4431bf17","age":21,"online":2},{"nickName":"0134","icon":"/img/c9c5299defdc453bb2128bdc4fd6b22f.png","userLevel":1,"sexType":2,"pin":"5f8704cc8e42a45c4431bf12","age":21,"online":2}],"totalCount":154},"success":true}

@@ -1,0 +1,11 @@
+-------------------request-------------
+https://api.hnyoujin.cn/api/im/team/queryTeamList
+User-Agent: python-requests/2.24.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: YDGJUTUCDKVRQSEXS5DTG35QQGH3DSZMPNZVVG77AFB4LRX5DNLFTVCO4OVPPQAIKACF7CKEAP3QYPP7ZFIPIZ2ON646F4HQX4RZNNWJI2ITQBLCYN6ZLH6WYPS3BRMZVJLREXQWB5OM2
+content-type: application/json;;charset=UTF-8
+Content-Length: 0
+
+None

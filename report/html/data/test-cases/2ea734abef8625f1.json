@@ -1,0 +1,109 @@
+{
+  "uid" : "2ea734abef8625f1",
+  "name" : "附近动态",
+  "fullName" : "test_case.User.test_nearby#test_balance",
+  "historyId" : "57ed5ac8146aec7124a5a5d38a44a00c",
+  "time" : {
+    "start" : 1603294084075,
+    "stop" : 1603294084399,
+    "duration" : 324
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "token",
+    "time" : {
+      "start" : 1603294083927,
+      "stop" : 1603294084075,
+      "duration" : 148
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "18be9a4cd3667935",
+      "name" : "request",
+      "source" : "18be9a4cd3667935.txt",
+      "type" : "text/plain",
+      "size" : 640
+    }, {
+      "uid" : "1f2a06ccda8eeacc",
+      "name" : "response",
+      "source" : "1f2a06ccda8eeacc.txt",
+      "type" : "text/plain",
+      "size" : 1215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c84f89edb94fab1d",
+      "name" : "request",
+      "source" : "c84f89edb94fab1d.txt",
+      "type" : "text/plain",
+      "size" : 516
+    }, {
+      "uid" : "1e2ca518520b2022",
+      "name" : "response",
+      "source" : "1e2ca518520b2022.txt",
+      "type" : "text/plain",
+      "size" : 9692
+    }, {
+      "uid" : "afca21c34c4f432e",
+      "name" : "log",
+      "source" : "afca21c34c4f432e.txt",
+      "type" : "text/plain",
+      "size" : 12408
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_balance"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_nearby"
+  }, {
+    "name" : "host",
+    "value" : "PC-202002051100"
+  }, {
+    "name" : "thread",
+    "value" : "13920-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_nearby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ea734abef8625f1.json",
+  "parameterValues" : [ ]
+}

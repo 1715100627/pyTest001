@@ -1,0 +1,116 @@
+{
+  "uid" : "788b95281df189f5",
+  "name" : "好友列表",
+  "fullName" : "test_case.User.test_queryFriend#test_queryFriend",
+  "historyId" : "fd6cc5a30a79ee58fe756796c263c67f",
+  "time" : {
+    "start" : 1603295146281,
+    "stop" : 1603295146562,
+    "duration" : 281
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "token",
+    "time" : {
+      "start" : 1603295145430,
+      "stop" : 1603295145605,
+      "duration" : 175
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "87a2623bfefc882",
+      "name" : "request",
+      "source" : "87a2623bfefc882.txt",
+      "type" : "text/plain",
+      "size" : 640
+    }, {
+      "uid" : "6e04870a8647f4a9",
+      "name" : "response",
+      "source" : "6e04870a8647f4a9.txt",
+      "type" : "text/plain",
+      "size" : 1217
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1a1d720e758f89ee",
+      "name" : "request",
+      "source" : "1a1d720e758f89ee.txt",
+      "type" : "text/plain",
+      "size" : 440
+    }, {
+      "uid" : "4caaa10c216ed906",
+      "name" : "response",
+      "source" : "4caaa10c216ed906.txt",
+      "type" : "text/plain",
+      "size" : 3475
+    }, {
+      "uid" : "ea31d66717c475af",
+      "name" : "log",
+      "source" : "ea31d66717c475af.txt",
+      "type" : "text/plain",
+      "size" : 4087
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_queryFriend"
+  }, {
+    "name" : "host",
+    "value" : "PC-202002051100"
+  }, {
+    "name" : "thread",
+    "value" : "15004-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_queryFriend"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "29b27b4539b5bcb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603294084767,
+        "stop" : 1603294085036,
+        "duration" : 269
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "788b95281df189f5.json",
+  "parameterValues" : [ ]
+}
